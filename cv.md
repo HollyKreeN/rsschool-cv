@@ -45,7 +45,7 @@ eco $c;
 
 ## Languages
 Russian - native speaker.
-English - i don't know.
+English - i don't know it. I suppose between A0 & A1.
 
 ******
 ******
