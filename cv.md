@@ -34,11 +34,13 @@ Nothing yet…
 
 ## Code example:
 ~~~
-$a = 5;
-$b = 3;
-$c = $a + $b;
-eco $c;
+function multiply (a, b) {
+return a * b
+}
 ~~~
+
+## Project:
+[CV](https://github.com/HollyKreeN/rsschool-cv/blob/gh-pages/cv.md)
 
 *****
 *****
